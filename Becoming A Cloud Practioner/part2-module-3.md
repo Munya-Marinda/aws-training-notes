@@ -4,7 +4,7 @@
 
 In this section, we'll explore Amazon Elastic Compute Cloud (EC2) and its key components.
 
-- **Amazon Machine Image (AMI)**: An Amazon Machine Image provides all the information needed to launch an instance of Amazon EC2. It includes the operating system, applications, and user-defined parameters. AMIs serve as the blueprint for your EC2 instances.
+- **Amazon Machine Image  (AMI)**: An Amazon Machine Image provides all the information needed to launch an instance of Amazon EC2. It includes the operating system, applications, and user-defined parameters. AMIs serve as the blueprint for your EC2 instances.
 
 - **Instance Types**: EC2 offers various instance types tailored to specific use cases.
   - **General Purpose**: Suited for a wide range of tasks.
